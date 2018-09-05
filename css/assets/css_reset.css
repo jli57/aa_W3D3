@@ -1,0 +1,22 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  border: 0px;
+  font: inherit;
+}
+
+body {
+  line-height: 1.5;
+}
+
+li {
+  list-style: none;
+}
+
+figure {
+  width: 800px;
+}
+
+img {
+  width: inherit;
+}
